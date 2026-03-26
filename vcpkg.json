@@ -1,0 +1,8 @@
+{
+  "name": "timeseries-db",
+  "version": "0.1.0",
+  "description": "Timeseries database in C++",
+  "dependencies": [
+    "gtest"
+  ]
+}
